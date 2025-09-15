@@ -1,2 +1,4 @@
 Hello from Master Branch
 This line is added in the master branch
+ This line is added in the feature branch.
+This line includes changes from both the branches.
